@@ -9,8 +9,8 @@ manage = ManageDB()
 class Product(BaseModel):
     id : str = str(uuid4()) 
     name: str 
-    amount: int
-    price: float
+    amount: str
+    price: str
 
 
 @router_productos.get("/")
@@ -31,9 +31,9 @@ def get_single_products(product_id: str):
 
 @router_productos.post("/products")
 def create_product(product: Product):
-    products: list = manage.read_products()
+    products: list = ManageDB().read_products()
     products.append(product.dict())
-    manage.write_products(products)
+    ManageDB().write_products(products)
     return {"Success":True,
             "Message":"Product added successfully",
             "Value":product.dict()

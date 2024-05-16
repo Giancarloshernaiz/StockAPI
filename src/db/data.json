@@ -1,1 +1,242 @@
-[{"id": "1234567891", "name": "producto nuevo", "amount": 12, "price": 12.0}, {"id": "1234hgtryu", "name": "Producto de prueba", "amount": 12, "price": 12.0}, {"id": "dasoiajdoa", "name": "Random", "amount": 150, "price": 200.0}]
+[
+  {
+    "id": "001",
+    "name": "Fidget Spinner Pro",
+    "amount": 50,
+    "price": 15
+  },
+  {
+    "id": "002",
+    "name": "Snuggie UltraWarm",
+    "amount": 30,
+    "price": 45
+  },
+  {
+    "id": "003",
+    "name": "EcoBottle Reusable",
+    "amount": 100,
+    "price": 10
+  },
+  {
+    "id": "004",
+    "name": "SmartHome Hub",
+    "amount": 75,
+    "price": 200
+  },
+  {
+    "id": "005",
+    "name": "ProteinPump Shake",
+    "amount": 120,
+    "price": 25
+  },
+  {
+    "id": "006",
+    "name": "TechGadget X",
+    "amount": 80,
+    "price": 150
+  },
+  {
+    "id": "007",
+    "name": "OrganicBeauty Cream",
+    "amount": 60,
+    "price": 30
+  },
+  {
+    "id": "008",
+    "name": "HealthyMeal Prep Kit",
+    "amount": 90,
+    "price": 40
+  },
+  {
+    "id": "009",
+    "name": "Fashionista Accessory",
+    "amount": 55,
+    "price": 20
+  },
+  {
+    "id": "010",
+    "name": "TravelEssentials Bag",
+    "amount": 65,
+    "price": 35
+  },
+  {
+    "id": "011",
+    "name": "GamingConsole NextGen",
+    "amount": 85,
+    "price": 400
+  },
+  {
+    "id": "012",
+    "name": "FitnessTracker Elite",
+    "amount": 95,
+    "price": 250
+  },
+  {
+    "id": "013",
+    "name": "SustainableShoe Eco",
+    "amount": 70,
+    "price": 100
+  },
+  {
+    "id": "014",
+    "name": "SmartWatch Ultra",
+    "amount": 80,
+    "price": 300
+  },
+  {
+    "id": "015",
+    "name": "VeganCookbook Deluxe",
+    "amount": 60,
+    "price": 20
+  },
+  {
+    "id": "016",
+    "name": "EcoFriendlyBag Large",
+    "amount": 75,
+    "price": 30
+  },
+  {
+    "id": "017",
+    "name": "PortableSpeaker Pro",
+    "amount": 90,
+    "price": 50
+  },
+  {
+    "id": "018",
+    "name": "OrganicSkincare Set",
+    "amount": 55,
+    "price": 40
+  },
+  {
+    "id": "019",
+    "name": "YogaMat Premium",
+    "amount": 65,
+    "price": 60
+  },
+  {
+    "id": "020",
+    "name": "MinimalistWallet Leather",
+    "amount": 70,
+    "price": 25
+  },
+  {
+    "id": "021",
+    "name": "SolarCharger Portable",
+    "amount": 80,
+    "price": 30
+  },
+  {
+    "id": "022",
+    "name": "PlantBasedDiet Guide",
+    "amount": 90,
+    "price": 15
+  },
+  {
+    "id": "023",
+    "name": "EcoConsciousJewelry",
+    "amount": 100,
+    "price": 20
+  },
+  {
+    "id": "024",
+    "name": "SmartThermostat HomeKit",
+    "amount": 110,
+    "price": 200
+  },
+  {
+    "id": "025",
+    "name": "AirPodsPro Wireless",
+    "amount": 120,
+    "price": 250
+  },
+  {
+    "id": "026",
+    "name": "SustainableClothing Brand",
+    "amount": 130,
+    "price": 50
+  },
+  {
+    "id": "027",
+    "name": "ElectricBike Urban",
+    "amount": 140,
+    "price": 1500
+  },
+  {
+    "id": "028",
+    "name": "CompactCamera DSLR",
+    "amount": 150,
+    "price": 800
+  },
+  {
+    "id": "029",
+    "name": "EcoCar Charger Fast",
+    "amount": 160,
+    "price": 100
+  },
+  {
+    "id": "030",
+    "name": "SmartMirror Bathroom",
+    "amount": 170,
+    "price": 300
+  },
+  {
+    "id": "031",
+    "name": "VeganCheese Variety Pack",
+    "amount": 180,
+    "price": 30
+  },
+  {
+    "id": "032",
+    "name": "ReusableWaterBottle",
+    "amount": 190,
+    "price": 15
+  },
+  {
+    "id": "033",
+    "name": "EcoFriendlyToothbrush",
+    "amount": 200,
+    "price": 10
+  },
+  {
+    "id": "034",
+    "name": "SmartLock Home Security",
+    "amount": 210,
+    "price": 150
+  },
+  {
+    "id": "035",
+    "name": "PortablePowerBank HighCap",
+    "amount": 220,
+    "price": 50
+  },
+  {
+    "id": "036",
+    "name": "OrganicTea Sampler",
+    "amount": 230,
+    "price": 20
+  },
+  {
+    "id": "037",
+    "name": "EcoTote Shopping Bag",
+    "amount": 240,
+    "price": 15
+  },
+  {
+    "id": "038",
+    "name": "SmartLight Bulbs LED",
+    "amount": 250,
+    "price": 30
+  },
+  {
+    "id": "039",
+    "name": "PlantBasedProtein Powder",
+    "amount": 260,
+    "price": 25
+  },
+  {
+    "id": "040",
+    "name": "EcoWasteBin Compostable",
+    "amount": 270,
+    "price": 20
+  }
+]

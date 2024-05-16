@@ -31,9 +31,9 @@ def get_single_products(product_id: str):
 
 @router_productos.post("/products")
 def create_product(product: Product):
-    products: list = ManageDB().read_products()
+    products: list = manage.read_products()
     products.append(product.dict())
-    ManageDB().write_products(products)
+    manage.write_products(products)
     return {"Success":True,
             "Message":"Product added successfully",
             "Value":product.dict()

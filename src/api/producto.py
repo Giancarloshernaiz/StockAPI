@@ -9,8 +9,8 @@ manage = ManageDB()
 class Product(BaseModel):
     id : str = str(uuid4()) 
     name: str 
-    amount: str
-    price: str
+    amount: int
+    price: float
 
 
 @router_productos.get("/")
